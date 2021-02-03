@@ -12,12 +12,14 @@
   background-color: #190a5e;
   display: flex;
   flex: 50%;
+  width: 500px;
 }
 
 .navbarright {
   background-color: #553511;
   flex: 50%;
   display: flex;
+  width: 500px;
 }
 .navbarright ul {
   display: flex;
