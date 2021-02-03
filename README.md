@@ -1,1 +1,1 @@
-This repository showcases how one can easily use css flex property for equal and responsive partitioning. 
+This repository showcases how one can easily use css flex property for equal partitioning. To make the boxes responsive, you simply just write the media queries whereby you use a display direction of column. That way, the boxes stack on top of each other.
