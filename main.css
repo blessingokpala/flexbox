@@ -44,7 +44,7 @@
   background-color: #5e3c0a;
   height: 500px;
   width: 250px;
-  margin: 5px 5px;
+  margin: 30px 20px;
 }
 .cards .card2 {
   display: flex;
@@ -52,7 +52,7 @@
   background-color: #185e0a;
   height: 500px;
   width: 250px;
-  margin: 5px 5px;
+  margin: 30px 20px;
 }
 .cards .card3 {
   display: flex;
@@ -60,7 +60,7 @@
   background-color: #5e580a;
   height: 500px;
   width: 250px;
-  margin: 5px 5px;
+  margin: 30px 20px;
 }
 .cards .card4 {
   display: flex;
@@ -68,5 +68,35 @@
   background-color: #5e0a50;
   height: 500px;
   width: 250px;
-  margin: 5px 5px;
+  margin: 30px 20px;
+}
+
+.second-cards {
+  background-color: #280236;
+  height: 80vh;
+  display: flex;
+}
+.firstCard {
+  display: flex;
+  flex: 33.3%;
+  background-color: #5aa846;
+  height: 500px;
+  width: 200px;
+  margin: 50px 25px;
+}
+.secondCard {
+  display: flex;
+  flex: 33.3%;
+  background-color: #924c2c;
+  height: 500px;
+  width: 200px;
+  margin: 50px 25px;
+}
+.thirdCard {
+  display: flex;
+  flex: 33.3%;
+  background-color: #1d4497;
+  height: 500px;
+  width: 200px;
+  margin: 50px 25px;
 }
