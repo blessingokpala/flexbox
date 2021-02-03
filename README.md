@@ -1,1 +1,1 @@
-This repository showcases how one can easily use css flex property for equal partitioning. 
+This repository showcases how one can easily use css flex property for equal and responsive partitioning. 
